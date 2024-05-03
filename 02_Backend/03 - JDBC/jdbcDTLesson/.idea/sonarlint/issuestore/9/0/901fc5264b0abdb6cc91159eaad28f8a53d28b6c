@@ -1,0 +1,12 @@
+
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Úøª·8•ÕÕÛå1J$d770d3e8-00ae-4224-92b1-cb1ff8d80dd3
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8“ÕÕÛå1J$ba8ebf93-64f9-44ad-b22b-fd3e23cddb0a
+p
+java:S4925"-Remove this "Class.forName()", it is useless.(Òûİò8›ÕÕÛå1J$151c7c4e-5a22-442a-8505-4e9561af56cf
+y
+java:S6437"6Revoke and change this password, as it is compromised.(Úøª·8ÕÕÛå1J$150fdf1c-cde9-40ee-8fc6-fb56278a6b13
+l	java:S106"+Replace this use of System.out by a logger.(ùø¼8¢ÕÕÛå1J$555084f7-3b79-4ffd-aa49-2dfa147c0b10
+m	java:S106"+Replace this use of System.out by a logger.(¾¥¾É8¥ÕÕÛå1J$fa5f779f-734a-49d1-900e-755e652c63ed
+ƒ	java:S125+"<This block of commented-out lines of code should be removed.(§÷±Æüÿÿÿÿ8î¡ƒÜå1J$c5c4e6e1-bf70-4baf-a360-35c9abdbe498

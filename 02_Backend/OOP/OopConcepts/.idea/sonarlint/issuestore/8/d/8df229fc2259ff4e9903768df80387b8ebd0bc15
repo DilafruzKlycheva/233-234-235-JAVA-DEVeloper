@@ -1,0 +1,16 @@
+
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ê¸€¬8áƒ»æ1J$06a6e368-76a3-408b-a327-7c91938abe17
+•
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(º‡’»8ãƒ»æ1J$ee6f08d1-d38b-4fcd-8c7b-8c8a68e72055
+˜
+java:S1104"UMake publisher a static final constant or non-public and provide accessors if needed.(ÉŠ²‹8æƒ»æ1J$e5cfedca-bf90-4eab-96fc-18fc606c08c5
+™
+java:S1104"VMake pageNumber a static final constant or non-public and provide accessors if needed.(•‰º»8çƒ»æ1J$e3650d5c-d5ad-4cf2-bf01-dfcce5411f16
+™
+java:S1104	"QMake price a static final constant or non-public and provide accessors if needed.(‰ãÊèøÿÿÿÿ8èƒ»æ1J$15357762-1b7c-4b1f-8bb1-051090dd853b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í–ÑÛıÿÿÿÿ8ëƒ»æ1J$b14cae45-ce5a-443f-8144-a853ac61b095
+|
+java:S1854$"9Remove this useless assignment to local variable "book2".(³åÄˆ8ûƒ»æ1J$21c611a8-b350-4c8a-bb9c-69cf0e59373d
+m
+java:S1481$"*Remove this unused "book2" local variable.(³åÄˆ8†„»æ1J$010192ee-bd6b-4e89-a700-cfcc4e3986f5

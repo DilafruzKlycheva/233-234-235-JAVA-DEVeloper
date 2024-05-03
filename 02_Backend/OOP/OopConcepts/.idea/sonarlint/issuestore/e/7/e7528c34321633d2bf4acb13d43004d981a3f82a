@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğèÜüÿÿÿÿ8ÊÜ··ç1J$4ff08447-ee30-4ef8-b17c-3348a8e12246
+m	java:S106"+Replace this use of System.out by a logger.(¬ƒ”¼8”ƒº·ç1J$1151443f-77e6-499e-9f8c-074417871e37
+k
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ÑÜ··ç1J$48de2144-4412-4fd4-9eff-36e52b98622a
+o
+java:S1068",Remove this unused "username" private field.(‘ó¹²8ÒÜ··ç1J$06abf62c-cf36-4823-844c-6690ba6c5125
+s
+java:S1068"+Remove this unused "surname" private field.(—‡¨åûÿÿÿÿ8ÕÜ··ç1J$4a0d427e-e75a-4b4d-9dd0-7871bd58f0f3
+t
+java:S1068",Remove this unused "password" private field.(œãë­úÿÿÿÿ8×Ü··ç1J$49e0e20d-9b3e-41cd-8bb5-28eaaaa17779
+w
+java:S1068	"/Remove this unused "phoneNumber" private field.(Ôá“ùÿÿÿÿ8ØÜ··ç1J$3fdcc96a-e4fe-4b04-b5f3-15244322b628
+m
+java:S1068
+"*Remove this unused "lesson" private field.(¦¨ö­8ÚÜ··ç1J$e736de2d-e33a-4898-ab12-c5feacf00a9e

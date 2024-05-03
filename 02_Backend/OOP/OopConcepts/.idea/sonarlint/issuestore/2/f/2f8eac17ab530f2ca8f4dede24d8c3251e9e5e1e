@@ -1,0 +1,19 @@
+
+
+java:S1192"GDefine a constant instead of duplicating this literal "age : " 3 times.(ñ–²ãûÿÿÿÿ8â…İ¹ç1J$b367cb95-8a15-4f45-b962-3329e6338f57
+’
+java:S1192"PDefine a constant instead of duplicating this literal "phone-number : " 3 times.(âœÍ(8è…İ¹ç1J$ea7f2f28-c266-441c-8561-1edefda260dd
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "name : " 3 times.(¶Îìß8è…İ¹ç1J$39b8e4c3-1bdf-4136-9c16-80cef29dfdf3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§’ä8Ï—Ü¹ç1J$b5bd9a8f-e534-435e-94e2-c210da298d5f
+~	java:S125"<This block of commented-out lines of code should be removed.(ÔŞã§8Á˜Ü¹ç1J$ed3c942c-481f-4fda-8769-b5b69ed34b7d
+m	java:S106"+Replace this use of System.out by a logger.(’Í…ó8Ä˜Ü¹ç1J$83a6099f-8b3a-45f6-a082-a47a9c29176e
+m	java:S106"+Replace this use of System.out by a logger.(¶Îìß8Å˜Ü¹ç1J$8e629275-7c3e-45f3-8629-d6d4adabf3e9
+r	java:S106"+Replace this use of System.out by a logger.(ñ–²ãûÿÿÿÿ8Æ˜Ü¹ç1J$8dd58bb6-508a-4fc2-85aa-24e22d0bdf7b
+l	java:S106"+Replace this use of System.out by a logger.(âœÍ(8Ê˜Ü¹ç1J$9d21f62e-1c66-4f22-9277-ad8f6e4a6ce2
+m	java:S106#"+Replace this use of System.out by a logger.(Ğ¨Ûø8Ë˜Ü¹ç1J$1f8b93f8-4a2c-44c8-92c7-2f918a69d60e
+r	java:S106$"+Replace this use of System.out by a logger.(–ğëüÿÿÿÿ8Ë˜Ü¹ç1J$4f423360-26e7-4e55-8a38-fc9624d2f72c
+r	java:S106%"+Replace this use of System.out by a logger.(¹´â÷şÿÿÿÿ8‘†İ¹ç1J$f205fbb1-f26a-410b-aec1-3808c8dfd35f
+m	java:S106)"+Replace this use of System.out by a logger.(œğ×ò8’†İ¹ç1J$b4a838a9-acaa-40ca-996b-b26b06e57197
+r	java:S106*"+Replace this use of System.out by a logger.(üıˆıùÿÿÿÿ8’†İ¹ç1J$3f5cfa2f-641c-474e-bd2f-7ee85be7c917
+r	java:S106+"+Replace this use of System.out by a logger.(öŠãøÿÿÿÿ8–³á¹ç1J$adbaddfe-3235-4bb2-bc16-b8b05ed3a151

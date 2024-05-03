@@ -1,0 +1,12 @@
+
+	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ı…œ•æ1J$6fd321bf-96e0-4fbc-a90b-c264d9503a73
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8£†œ•æ1J$16d20947-da85-4baf-9d1c-301289f0bac3
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷Ï¦øÿÿÿÿ8œ†œ•æ1J$2e4a2c1b-29bd-4fd2-a555-ec7b20480b55
+’
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ü™ê8†œ•æ1J$54e525b9-65d6-4b2c-afdb-0b511b8d04bd
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ãÄ¶Š8¢†œ•æ1J$3b18da54-18fa-4e33-aabc-717ccda639f8
+~
+java:S6437"6Revoke and change this password, as it is compromised.(Äñªÿÿÿÿÿ8©†œ•æ1J$70c07369-0103-4105-a1bf-cd7210b1b811

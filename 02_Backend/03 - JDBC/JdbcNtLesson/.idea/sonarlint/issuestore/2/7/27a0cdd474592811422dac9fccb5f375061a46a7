@@ -1,0 +1,15 @@
+
+’
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™öº­8ºÜ®“æ1J$5bb364c4-f66a-44c3-a084-badc40b1e329
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ü™ê8ºÜ®“æ1J$c0daf9f3-273e-4975-b559-db3a98decc93
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8ºÜ®“æ1J$548d913b-9bfe-4dce-8f51-dbb25cb8fcdc
+
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÜŞïûÿÿÿÿ8ºÜ®“æ1J$641fea8f-8455-402e-b9cd-7bdba3494704
+~
+java:S6437"6Revoke and change this password, as it is compromised.(ÜŞïûÿÿÿÿ8ÄÜ®“æ1J$520eb722-68ec-491f-8a02-891f31e6e123
+l	java:S106"+Replace this use of System.out by a logger.(ùø¼8ÆÜ®“æ1J$94fa0e54-9521-4e41-b740-6df8f6b808f8
+m	java:S106"+Replace this use of System.out by a logger.(•®±Š8ÇÜ®“æ1J$be253597-4e4b-4389-b600-afd9f86b4ac9
+r	java:S106"+Replace this use of System.out by a logger.(‡ï³ûüÿÿÿÿ8ÉÜ®“æ1J$0be8e55b-acb7-4c43-a82d-dac7e0bc59c2
+m	java:S106%"+Replace this use of System.out by a logger.(Şò©ä8ÊÜ®“æ1J$b7eb811f-060c-4b66-8534-caf571ca723a

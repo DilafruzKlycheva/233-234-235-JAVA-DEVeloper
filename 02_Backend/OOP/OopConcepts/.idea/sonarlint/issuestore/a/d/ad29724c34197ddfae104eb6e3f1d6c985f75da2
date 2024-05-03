@@ -1,0 +1,9 @@
+
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ùÊ¹¶ç1J$e3d162ab-696b-4569-bad6-956c4fc048d3
+›
+java:S1104"SMake surname a static final constant or non-public and provide accessors if needed.(ÅÇÏ•úÿÿÿÿ8ùÊ¹¶ç1J$4f6c221b-fbe5-4a76-b0d9-7b61a6786f4d
+œ
+java:S1104"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ8ùÊ¹¶ç1J$0306ccc7-5a83-4952-8d02-11fc74bb08b2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒûÇøÿÿÿÿ8ıÊ¹¶ç1J$a1933078-e99d-4f6e-b1d3-e0eaa058fae2
+m	java:S106"+Replace this use of System.out by a logger.(“ª©í8–Ë¹¶ç1J$8af1b2b0-b697-4653-aa8d-2bf84c6b41e1

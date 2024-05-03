@@ -1,0 +1,12 @@
+
+
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ë×ÑÖÿÿÿÿÿ8¢öğ€æ1J$9039e3b7-e18e-4668-b140-3564d7f4101b
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8¤öğ€æ1J$880426be-8f9c-4358-a759-e79033d8b661
+~
+java:S6437"6Revoke and change this password, as it is compromised.(Äñªÿÿÿÿÿ8»öğ€æ1J$04c06f13-ca6b-4dc6-93e8-b91ad5be56d9
+l	java:S106"+Replace this use of System.out by a logger.(ùø¼8Æöğ€æ1J$98e4eca5-e362-4520-ad40-12e1c1d81177
+m	java:S106"+Replace this use of System.out by a logger.(µçÁ¤8Èöğ€æ1J$7354331f-ba5f-4038-8d0b-78ecb06eb76d
+m	java:S106"+Replace this use of System.out by a logger.(Ãİ©Ô8Íöğ€æ1J$96c80568-b28c-4208-8673-05ffdb30b3ec
+m	java:S106 "+Replace this use of System.out by a logger.(Ô©æÜ8ãò€æ1J$b0c2b218-2a40-4b8f-86a3-2d48af416816
+~	java:S125!"<This block of commented-out lines of code should be removed.(£Õ´ó8æò€æ1J$fbf72526-0819-4d1c-a772-749578ce335e

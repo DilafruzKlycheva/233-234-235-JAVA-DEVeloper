@@ -1,0 +1,14 @@
+
+…
+java:S2184""BCast one of the operands of this division operation to a "double".(œø¬8Øµ¾æ1J$838ee6fa-ff55-45b8-ae5d-0c3a8724297b
+Š
+java:S2184;"BCast one of the operands of this division operation to a "double".(ı½¨ıÿÿÿÿ8’Øµ¾æ1J$aa1a5c57-426a-4177-99fe-d69acbd1ef2c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’„…Àøÿÿÿÿ8“Øµ¾æ1J$b91b2bf9-6ba9-49c0-b045-e1c7d63c882e
+˜
+java:S3655:"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ö¢‚¨ıÿÿÿÿ8«Øµ¾æ1J$eb5b8823-fc1f-44fa-8153-fca1aac9e873
+r	java:S106"+Replace this use of System.out by a logger.(ÛªĞÖüÿÿÿÿ8¸Øµ¾æ1J$7fd35dbe-73f4-458e-946e-ded24e8a3bfa
+}	java:S125"<This block of commented-out lines of code should be removed.(ºüãf8¼Øµ¾æ1J$cddacf48-cfb8-4ac9-8fc2-afe091494f53
+r	java:S106#"+Replace this use of System.out by a logger.(Ï€Ñ¤øÿÿÿÿ8ÅØµ¾æ1J$f4851200-318f-4af5-b17e-346d9308da1f
+r	java:S1064"+Replace this use of System.out by a logger.(¶¢îĞıÿÿÿÿ8ÌØµ¾æ1J$008d7ea6-c465-42ba-82e8-01d42af326c1
+r	java:S1067"+Replace this use of System.out by a logger.(¸…úÿÿÿÿ8ÎØµ¾æ1J$65f8b157-da7f-4424-b695-bcbaf81c7ab1
+m	java:S106<"+Replace this use of System.out by a logger.(‰Óè‘8§‰¶¾æ1J$b1aec039-4c44-45be-af2d-bc3efa84c9ff

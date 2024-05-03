@@ -1,0 +1,16 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğèÜüÿÿÿÿJ$bd4f5dc5-bdd2-4c54-babc-85811b6d6faf
+r	java:S106"+Replace this use of System.out by a logger.(ç‡Â©ıÿÿÿÿ8äš°·ç1J$1f4b3798-4e09-48a9-b9c2-1c5c7bf3e560
+k
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ã®·ç1J$cba9d461-79f7-482f-9046-b09b9551f89d
+s
+java:S1068"+Remove this unused "surname" private field.(—‡¨åûÿÿÿÿ8“­·ç1J$dbc0b669-0c88-47e4-85ab-8ab6491909bc
+o
+java:S1068",Remove this unused "username" private field.(‘ó¹²8ü¯­·ç1J$8cd7c09b-483c-43bb-af11-f428b94bbd97
+t
+java:S1068",Remove this unused "password" private field.(œãë­úÿÿÿÿ8¢Ò­·ç1J$117104ca-6d0f-4572-a2d1-57a667272d99
+w
+java:S1068	"/Remove this unused "phoneNumber" private field.(Ôá“ùÿÿÿÿ8é¡±·ç1J$abca527b-2a9a-40b5-9ac0-8e03e8038f40
+t
+java:S1068
+"1Remove this unused "studentNumber" private field.(ë°•‘8æ®·ç1J$99232f64-e7b9-46ee-a8b2-ba11fb7fbea6

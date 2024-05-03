@@ -1,0 +1,15 @@
+
+	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Üûöşÿÿÿÿ8çšÚ„æ1J$6ff6ec92-f8ea-4a70-bef2-cfa3d763f3c6
+‹
+java:S2095	"HUse try-with-resources or close this "Connection" in a "finally" clause.(í»Ä·8š»Û„æ1J$022a29d8-8543-4edf-a9f3-4a70ecbb5bd6
+’
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ü™ê8š»Û„æ1J$4450f92b-2850-4672-b61a-59a05102e1ea
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8™»Û„æ1J$96008037-ed04-4c25-8ed5-064b3f68b487
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾‚ñ–ùÿÿÿÿ8š»Û„æ1J$80c3dd8d-ed1c-45e6-8aaf-9f5ecb31e016
+~
+java:S6437
+"6Revoke and change this password, as it is compromised.(Ü¸ÕÜşÿÿÿÿ8 œÚ„æ1J$19100061-c87a-4e5b-9e01-d1cfe9904d98
+r	java:S1069"+Replace this use of System.out by a logger.(Ğì’èÿÿÿÿÿ8©œÚ„æ1J$59dbe35f-1e5a-47e6-9c15-5230b4ffbe71
+~	java:S125;"<This block of commented-out lines of code should be removed.(Å€ô¤8­»Û„æ1J$1543fd55-af65-433a-bfc8-615c134266be

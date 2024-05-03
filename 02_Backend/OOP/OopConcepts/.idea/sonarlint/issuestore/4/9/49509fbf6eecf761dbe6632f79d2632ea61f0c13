@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í–ÑÛýÿÿÿÿ8ù¬à»æ1J$69fce25f-b9c7-4a93-ba96-56f69fa80da5
+~	java:S125"<This block of commented-out lines of code should be removed.( âùÆ8’­à»æ1J$cc11e37f-3e54-46dc-bc38-5f4553944115
+€
+java:S1854,"8Remove this useless assignment to local variable "prs3".(ççÌßøÿÿÿÿ8•­à»æ1J$a84f3c15-b1b4-47e6-b4ad-0ea1ce4e1202
+}	java:S125("<This block of commented-out lines of code should be removed.(®ýŸ:8›­à»æ1J$dbd5f1a4-99af-4f52-83bd-fe23abf34e37
+q
+java:S1481,")Remove this unused "prs3" local variable.(ççÌßøÿÿÿÿ8Ÿ­à»æ1J$35efb5fa-a7d9-42ef-8286-a79a64c8734c
+p
+java:S1068"(Remove this unused "name" private field.(×®®…ùÿÿÿÿ8¡­à»æ1J$1b690cb6-5798-4bf8-bfab-d71e60059eaf
+s
+java:S1068"+Remove this unused "surname" private field.(÷ª¨Îùÿÿÿÿ8£­à»æ1J$07c9f47c-3a45-41a7-9c91-98b7ec0112b3
+j
+java:S1068"'Remove this unused "age" private field.(¼’´8Òæî»æ1J$a0a67e79-a797-4fe9-b454-690988a86838
+w
+java:S1068"/Remove this unused "phoneNumber" private field.(‹Ìç†üÿÿÿÿ8¥­à»æ1J$1e8dad0e-9e65-4f77-ab79-f425010759e2
